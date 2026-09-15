@@ -1,0 +1,35 @@
+tap to go to the deck list
+
+tap to create a deck
+
+tap deck name to see the options
+
+tap 'open'
+
+tap the + button to make a new Zipcard
+
+make sure to add text to the front and back of each card!
+
+tap the colored dots to change the Zipcard's colored
+
+finalize your Zipcard
+
+tap your card to flip it
+
+create more cards to fill your gauge. 
+When it is full, you can take a quiz using the Zipcards in deck you selected.
+
+thank you for completing the tutorial, tap here to claim 10 credits!
+Creating cards and decks will cost credits.  
+
+Daily free quiz: Match 4 or more of your cards to pass the quiz.
+If you pass, you can earn 10 credits once per day.
+You can retake the quiz in excahnge for some credits,
+but you will not earn any credits if you pass.
+
+You can also earn credits by watching ads, or by purchasing 
+premium items from the shop.
+
+
+
+finish tutorial, get 10 free credits, from now on, use credits to make new cards and decks

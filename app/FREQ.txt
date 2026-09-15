@@ -1,0 +1,36 @@
+🙂Frequently Used Commands🙂
+
+npx expo start -c
+npx expo start --dev-client                    
+
+eas credentials
+
+npx expo prebuild
+eas build --profile development --platform ios
+eas build --profile production --platform ios
+
+eas submit --platform ios
+
+eas whoami
+eas login
+
+npm audit fix
+
+eas device:list    
+eas device:create    
+eas device:delete    
+
+eas build:dev
+
+npx expo run:ios                     
+
+eas update:configure
+eas update --channel production --message "[message]"
+//^^DO NOT update verion number when running this command
+
+npx expo-doctor 
+
+npx expo install  
+
+npm update 
+npm outdated

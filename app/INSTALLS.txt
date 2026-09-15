@@ -1,0 +1,8 @@
+npm install \
+expo-clipboard \
+@react-native-async-storage/async-storage \
+npm i expo-blur
+
+Expo safe command to update all installed packages:
+>npx expo install
+>npm update
